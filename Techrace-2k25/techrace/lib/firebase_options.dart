@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCuzudkhEUKIaLYK5nzeeCIoluPQqwipo8',
+    apiKey: 'Aabcd',
     appId: '1:595933856372:android:f126a762f1f07d196c4721',
     messagingSenderId: '595933856372',
     projectId: 'techrace-2k25-308ee',
-    databaseURL: 'https://techrace-2k25-308ee-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'abcd',
     storageBucket: 'techrace-2k25-308ee.firebasestorage.app',
   );
 }
